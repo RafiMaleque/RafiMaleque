@@ -1,7 +1,7 @@
 ### Hello World 👋,I'm Rafi Maleque
 
 
-#### 2nd Year CompSci Student 
+#### 3rd Year CompSci Student 
 
 #### Based in CANADA:maple_leaf:
 
