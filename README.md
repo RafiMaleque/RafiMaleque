@@ -1,20 +1,14 @@
-### Hello World 👋,I'm Rafi Maleque
+### Hello World 👋,I'm Rafi Abdul Maleque
 
 
-#### 4th Year CompSci Student 
+#### Computer Science New Graduate 
 
-#### Based in CANADA:maple_leaf:
+#### Based in CANADA 🍁
 
--**Frameworks**
- - React/React Native
- - NodeJS
-  
 -**Programming Languages** :pencil2:
- - Javascript
- - Typescript
  - Python
  - Java
- - C/C++
+ 
 
 -**Tools & Cloud** :wrench:  :cloud:
  - Firebase
@@ -26,7 +20,7 @@ Thank you for visiting my Github! I am always open to meeting new people and cre
 
 (LinkedIn)[www.linkedin.com/in/rafi-maleque]
 
-Email : rafi981@my.yorku.ca
+Email : rafiabdul811@gmail.com
 <!--
 **RafiMaleque/RafiMaleque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
