@@ -1,7 +1,7 @@
 ### Hello World 👋,I'm Rafi Abdul Maleque
 
 
-#### Computer Science New Graduate 
+#### I graduated with a Degree in Computer Science from York University in August 2023. I love technology and I am recently interested in exploring the Cybersecurity field. 
 
 #### Based in CANADA 🍁
 
